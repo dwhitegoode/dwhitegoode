@@ -8,7 +8,8 @@
  
 ### My Github Stats
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=forextroll&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=forextroll&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
  
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forextroll&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
