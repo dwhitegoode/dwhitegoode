@@ -1,7 +1,7 @@
  
 ### May the code be with you!
  
-- Name is David, and my pronouns are he/him. I'm a software engineer.
+- My name is David (he/him). I'm a software engineer.
 - I have a B.Tech. (Hons.) in Information Technology, and previoulsy worked for Infosys as a Data Analyst.
 - I've furthered my education through a rigurous coding bootcamp at General Assembly and self study which has taught me a variety of frameworks, tools, and languages to create professional applications.
 - I'm currently looking for a role in software engineering, full stack development, or back-end.
